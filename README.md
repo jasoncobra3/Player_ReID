@@ -100,7 +100,7 @@ This project implements a **real-time multi-object tracking system** to detect a
 - Combines YOLOv11 + Deep SORT for robust tracking.
 - Industry-grade reliability: Efficient, accurate, and well-filtered.
 - Easily extendable to other sports analytics and surveillance use cases.
-- Clean, professional structure and reproducible steps
+- Clean, professional structure and reproducible steps.
 
 --- 
 ## Model Weights
